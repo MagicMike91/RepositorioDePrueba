@@ -31,6 +31,7 @@ namespace AplicacionNetRazor.Pages.Cursos
         {
             var curso = await _contexto.Curso.FindAsync(id);
 
+            //agrego
             if (curso == null)
                 return NotFound();
 
