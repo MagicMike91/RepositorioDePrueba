@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.exe
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.deps.json
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.runtimeconfig.json
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.dll
+C:\Users\Migue\source\repos\Practica_1\Practica_1\bin\Debug\netcoreapp3.1\Practica_1.pdb
+C:\Users\Migue\source\repos\Practica_1\Practica_1\obj\Debug\netcoreapp3.1\Practica_1.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Practica_1\Practica_1\obj\Debug\netcoreapp3.1\Practica_1.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Practica_1\Practica_1\obj\Debug\netcoreapp3.1\Practica_1.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Practica_1\Practica_1\obj\Debug\netcoreapp3.1\Practica_1.dll
+C:\Users\Migue\source\repos\Practica_1\Practica_1\obj\Debug\netcoreapp3.1\Practica_1.pdb
